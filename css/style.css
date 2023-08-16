@@ -1,9 +1,9 @@
-/* span {
+span {
     display: block;
     font-family: monospace;
     white-space: nowrap;
     border-right: 4px solid;
-    width: 12ch;
+    width: 50ch;
 
     animation: typing 2s steps(12), blink .5s infinite step-end alternate;
     overflow: hidden;
@@ -15,7 +15,7 @@
 
 @keyframes blink {
     50% {border-color: transparent;}
-} */
+}
 
 ::before
 ::after{
@@ -90,5 +90,9 @@ section:nth-of-type(2){
     background-color: #5EE0C2;
 }
 section:nth-of-type(3){
-    background-color: #F04A63;
+    /* background-color: #F04A63; */
+    background-color: #000;    
+    margin: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
 }
