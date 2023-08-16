@@ -61,7 +61,7 @@ nav a:not(:last-child) {
     margin-right: 25px;
 }
 
-a{
+/* a{
     text-decoration: none;
     color:white;
     transition: color 0.3s ease-in-out;
@@ -69,7 +69,7 @@ a{
 
 a:hover{
     color: #5ee0c2;;
-}
+} */
 
 section{
     width: 100%;
