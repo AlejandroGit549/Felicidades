@@ -17,5 +17,5 @@ function MostrarMensajeFelicidades(){
     Feliz cumpleaños, querida Yess. Que este año sea un capítulo emocionante y lleno de bendiciones en tu historia, y que cada día esté lleno de amor, risas y maravillosas sorpresas.
     Con todo mi cariño y mejores deseos,<br>
     [ASM]`,
-    footer: '<a href="https://youtu.be/HajsAWCfBR8" target="_blank">Ver</a>'})
+    footer: '<a href="https://youtu.be/dH7_By3Y2i0" target="_blank">Ver</a> <a href="listado.html" target="_blank">Leer</a>' })
 }
